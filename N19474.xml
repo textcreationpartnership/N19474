@@ -109,8 +109,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:025376_0000_0FCD104B9EE88578"/>
-            <pb facs="tcp:025376_0001_0FCD104CF634D8A8" rendition="simple:additions"/>
+            <pb facs="unknown:025376_0000_0FCD104B9EE88578"/>
+            <pb facs="unknown:025376_0001_0FCD104CF634D8A8"
+                rendition="simple:additions"/>
             <p>THE DANGER OF <hi>Exceſſive Drinking.</hi>
             </p>
             <p>A POEM.</p>
@@ -124,7 +125,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:025376_0002_0FCD104E6B5137D8"/>
+            <pb facs="unknown:025376_0002_0FCD104E6B5137D8"/>
             <head>THE DANGER OF <hi>Exceſſive Drinking</hi>
             </head>
             <lg>
@@ -152,7 +153,7 @@
                <l>To frequent ſuch a place.</l>
             </lg>
             <lg>
-               <pb n="3" facs="tcp:025376_0003_0FCD104FE6488980"/>
+               <pb n="3" facs="unknown:025376_0003_0FCD104FE6488980"/>
                <l>When men, with children and with wives,</l>
                <l>Befool themſelves with drink,</l>
                <l>So that they lead unhappy lives,</l>
@@ -196,7 +197,7 @@
                <l>And other raking pains.</l>
             </lg>
             <lg>
-               <pb n="4" facs="tcp:025376_0004_0FCD105174AA3168"/>
+               <pb n="4" facs="unknown:025376_0004_0FCD105174AA3168"/>
                <l>Brings on many a hard diſeaſe</l>
                <l>Which ſweepeth like a flood,</l>
                <l>Upon the perſons they do ſeize;</l>
@@ -239,7 +240,7 @@
                <l>By drinking of their cups.</l>
             </lg>
             <lg>
-               <pb n="5" facs="tcp:025376_0005_0FCD1052E82B4788"/>
+               <pb n="5" facs="unknown:025376_0005_0FCD1052E82B4788"/>
                <l>Liable to fall into the fire,</l>
                <l>And there to burn to death;</l>
                <l>Then ſuddenly they muſt expire,</l>
@@ -282,7 +283,7 @@
                <l>Until they are undone,</l>
             </lg>
             <lg>
-               <pb n="6" facs="tcp:025376_0006_0FCD1054CDA5F908"/>
+               <pb n="6" facs="unknown:025376_0006_0FCD1054CDA5F908"/>
                <l>This cauſeth quarrels to ariſe,</l>
                <l>Which is a ſhameful thing;</l>
                <l>This breaks up many families,</l>
@@ -325,7 +326,7 @@
                <l>Deſtroys thouſands of ſouls.</l>
             </lg>
             <lg>
-               <pb n="7" facs="tcp:025376_0007_0FCD1055E9A66E08"/>
+               <pb n="7" facs="unknown:025376_0007_0FCD1055E9A66E08"/>
                <l>Innholders, O!—that you would mind</l>
                <l>As far as in your powers:</l>
                <l>Be to yourſelves and others kind,</l>
@@ -368,7 +369,7 @@
                <l>Ten thouſands then are ſlain</l>
             </lg>
             <lg>
-               <pb n="8" facs="tcp:025376_0008_0FCD105828FAE3F8"/>
+               <pb n="8" facs="unknown:025376_0008_0FCD105828FAE3F8"/>
                <l>Some generals upon the land,</l>
                <l>Their armies are made ſmall;</l>
                <l>By this, ſometimes, we underſtand,</l>
